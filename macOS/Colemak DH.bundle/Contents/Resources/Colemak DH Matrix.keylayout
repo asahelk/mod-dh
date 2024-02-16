@@ -13,8 +13,7 @@
     </layouts>
     <modifierMap id="f4" defaultIndex="7">
         <keyMapSelect mapIndex="0">
-            <modifier keys="command?"/>
-            <modifier keys="anyShift? caps? leftCommand"/>
+            <modifier keys="anyShift? caps?"/>
         </keyMapSelect>
         <keyMapSelect mapIndex="1">
             <modifier keys="anyShift caps?"/>
