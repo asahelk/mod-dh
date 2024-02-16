@@ -13,8 +13,8 @@
     </layouts>
     <modifierMap id="f4" defaultIndex="7">
         <keyMapSelect mapIndex="0">
-            <modifier keys="leftCommand?"/>
-            <modifier keys="anyShift? caps? leftCommand"/>
+            <modifier keys="command?"/>
+            <modifier keys="anyShift? caps? command"/>
         </keyMapSelect>
         <keyMapSelect mapIndex="1">
             <modifier keys="anyShift caps?"/>
@@ -26,18 +26,18 @@
             <modifier keys="anyOption"/>
         </keyMapSelect>
         <keyMapSelect mapIndex="4">
-            <modifier keys="anyShift caps? anyOption leftCommand?"/>
+            <modifier keys="anyShift caps? anyOption command?"/>
         </keyMapSelect>
         <keyMapSelect mapIndex="5">
             <modifier keys="caps anyOption"/>
         </keyMapSelect>
         <keyMapSelect mapIndex="6">
-            <modifier keys="caps? anyOption leftCommand"/>
+            <modifier keys="caps? anyOption command"/>
         </keyMapSelect>
         <keyMapSelect mapIndex="7">
-            <modifier keys="anyShift caps? option? leftCommand? control"/>
-            <modifier keys="shift? caps? anyOption leftCommand? control"/>
-            <modifier keys="caps? anyOption? leftCommand? control"/>
+            <modifier keys="anyShift caps? option? command? control"/>
+            <modifier keys="shift? caps? anyOption command? control"/>
+            <modifier keys="caps? anyOption? command? control"/>
         </keyMapSelect>
     </modifierMap>
     <keyMapSet id="16c">
